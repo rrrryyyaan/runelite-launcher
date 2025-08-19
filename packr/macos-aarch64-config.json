@@ -1,6 +1,6 @@
 {
   "classPath": [
-    "Jirenyte.jar"
+    "Exiles.jar"
   ],
   "mainClass": "net.runelite.launcher.Launcher",
   "vmArgs": [
